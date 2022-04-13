@@ -1,3 +1,3 @@
 # Agricultural-solution
 
-https://agricdev.netlify.app
+https://mohamed0-1.github.io/Agricultural-solution/
